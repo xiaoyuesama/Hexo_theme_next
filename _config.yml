@@ -14,7 +14,7 @@ override: false
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, xiaoyuesama, xiaoyue, 书评, 教程"
+keywords: " Hexo, xiaoyuesama, xiaoyue, xiaoyue_sama, 书评, 教程"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
