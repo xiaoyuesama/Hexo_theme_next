@@ -601,13 +601,13 @@ pace: true
 #pace-theme-minimal
 # For example
 # pace_theme: pace-theme-center-simple
-pace_theme: pace-theme-bounce
+pace_theme: pace-theme-corner-indicator
 
 # Canvas-nest
 canvas_nest: true
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
 canvas_lines: false
